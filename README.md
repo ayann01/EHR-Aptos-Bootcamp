@@ -1,4 +1,5 @@
-#Electronic Health Record System using Aptos Blockchain#
+Electronic Health Record System using Aptos Blockchain
+
 Welcome to the Electronic Health Record (EHR) System project powered by the Aptos Blockchain. This project aims to provide a secure, interoperable, and patient-centric EHR system leveraging the advantages of blockchain technology.
 
 Introduction
